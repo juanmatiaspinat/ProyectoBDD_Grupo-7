@@ -23,7 +23,7 @@ Grupo NRO: 7
 #### Integrantes
 | APELLIDO Y NOMBRE | DNI |
 | ------ | ------ |
-| GONZÁLES, Rodrigo Sebastián | 43346372 |
+| GONZÁLEZ, Rodrigo Sebastián | 43346372 |
 | PINAT, Juan Matias | 39190409 |
 | OLIVOS, Nicolas | 46073510 |
 | GAUNA, Natalia | 42514355 |
