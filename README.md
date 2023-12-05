@@ -25,6 +25,4 @@ Grupo NRO: 7
 | ------ | ------ |
 | GONZÁLEZ, Rodrigo Sebastián | 43346372 |
 | PINAT, Juan Matias | 39190409 |
-| OLIVOS, Nicolas | 46073510 |
-| GAUNA, Natalia | 42514355 |
 | JARAMILLO, Matias | 40440862 |
